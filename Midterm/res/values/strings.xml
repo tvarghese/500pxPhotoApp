@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MidTerm</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="submit_button_string">Submit</string>
+    <string name="title_activity_details">Details Activity</string>
+    <string name="title_activity_gallery">Gallery Activity</string>
+    <string name="imageview_description">Image Descroption</string>
+    <string name="image_name_string">Image Name</string>
+    <string name="textview">TextView</string>
+    <string name="notes_string">Notes</string>
+    <string name="notes_description">NotesDescription</string>
+    <string name="notes_hint_string">Enter your notes here</string>
+    <string name="search_term_hint_string">Enter the search term</string>
+
+</resources>
